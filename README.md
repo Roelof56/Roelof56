@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Roelof56
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C
+
 
 <!---
 Roelof56/Roelof56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
